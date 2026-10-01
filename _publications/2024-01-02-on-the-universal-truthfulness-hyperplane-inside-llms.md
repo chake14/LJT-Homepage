@@ -1,0 +1,8 @@
+---
+title:  "On the Universal Truthfulness Hyperplane Inside LLMs"
+authors: "Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He"
+date: 2024-01-02
+venue: "EMNLP 2024"
+citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He (2024). <i>On the Universal Truthfulness Hyperplane Inside LLMs</i>. EMNLP 2024.'
+category: "conferences"
+---
